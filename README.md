@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá! I am Murilo Henrique Jesus Ribeiro
 
-<!--
-**Muriloribeirodev/Muriloribeirodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou atualmente cursando Análise e Desenvolvimento de Sistemas — 3º semestre
+Apasionado por tecnología, programação e resolução de problemas
+Em busca de chances de aprender mais sobre o mundo do software development
 
-Here are some ideas to get you started:
+Tecnologias que estou a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-end: HTML, CSS, JavaScript
+- Back-end: Node.js (beginner), PHP (
+- Banco de dados: MySQL, SQLite
+- Ferramentas: Git, GitHub, VS Code
+
+I'm learning more about
+
+- Lógica de programação superior
+- Estrutura de dados - POO com Java - Versionamento com Git - Boas práticas de desenvolvimento
